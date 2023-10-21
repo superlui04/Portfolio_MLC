@@ -1,6 +1,6 @@
-# Portfolio_MLC
+### Portfolio_MLC
 
-# Project list on Data analytics 
+### Project list on Data analytics 
 
 ## Business
 ### Project 1: Segmentation of user activities
@@ -24,7 +24,7 @@
 - Led a team of 4 analyst where I was responsible for project management and creation of presentation deck  
 - Leveraged Microsoft office tools in the completion of the report
 
-### Project 3: Web application for Cultural Planning- Banghay ([https://www.canva.com/design/DAFeBUHayaE/qsTI3PTjJV0tBfp80XNAgQ/view?utm_content=DAFeBUHayaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://drive.google.com/file/d/1IBF9-ESq-53NgQMISej5yo29ro5kSUzL/view?usp=sharing))
+### Project 3: Web application for Cultural Planning- Banghay (https://drive.google.com/file/d/1IBF9-ESq-53NgQMISej5yo29ro5kSUzL/view?usp=sharing)
 - Performed data cleaning and visualization for various LGU
 - Worked with a team of 3 developer where I was responsible for requirement gathering, data wrangling and data visualization  
 - Leveraged Microsoft office tools and Power BI in the completion of visualization output
