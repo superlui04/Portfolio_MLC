@@ -24,21 +24,21 @@
 - Led a team of 4 analyst where I was responsible for project management and creation of presentation deck  
 - Leveraged Microsoft office tools in the completion of the report
 
-### Project 3: Web application for Cultural Planning- Banghay
+### Project 3: Web application for Cultural Planning- Banghay ([https://www.canva.com/design/DAFeBUHayaE/qsTI3PTjJV0tBfp80XNAgQ/view?utm_content=DAFeBUHayaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://drive.google.com/file/d/1IBF9-ESq-53NgQMISej5yo29ro5kSUzL/view?usp=sharing))
 - Performed data cleaning and visualization for various LGU
 - Worked with a team of 3 developer where I was responsible for requirement gathering, data wrangling and data visualization  
 - Leveraged Microsoft office tools and Power BI in the completion of visualization output
 - A working website for governmental developmental planning efforts
   
 ## Omdena
-### Project 1: [Predicting Leadership effectiveness on twitter]
+### Project 1: Predicting Leadership effectiveness on twitter
 July-Aug 2023 (Completed Sep 2023)
 - Used twitter as a data collection repository, leveraging roles and title to filter out data collection efforts accross Asia, Europe and US  
 - Worked in a team of 10 engineers in the preprocessing, model creation and model evaluation 
 - Leveraged Python for data collection and data cleaning
 
   
-### Project 2: [AI system for Habit Building using Recipes of Soft Skills]
+### Project 2: AI system for Habit Building using Recipes of Soft Skills
 Dec 2022 (Completed Dec 2022)
 - Used various website / forums as data collection source 
 - Worked in a team of 15 engineers in the preprocessing, model creation / manual classification
