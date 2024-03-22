@@ -22,7 +22,7 @@
 ### [Project 2: Accesibility Solution for Help Bridge ](https://www.canva.com/design/DAFeBUHayaE/qsTI3PTjJV0tBfp80XNAgQ/view?utm_content=DAFeBUHayaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - Performed issue analysis for Help Bridge App
 - Led a team of 4 analyst where I was responsible for project management and creation of presentation deck  
-- Leveraged Microsoft office tools in the completion of the report
+- Leveraged Canva in the completion of the report
 
 ### [ Project 3: Web application for Cultural Planning- Banghay](https://drive.google.com/file/d/1IBF9-ESq-53NgQMISej5yo29ro5kSUzL/view?usp=sharing)
 - Performed data cleaning and visualization for various LGU
